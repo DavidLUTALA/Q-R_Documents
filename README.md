@@ -4,6 +4,8 @@
 
 Q/R Documents est une application interactive qui vous permet d'interroger vos fichiers PDF et d'obtenir des réponses précises en fonction de leur contenu. Grâce à l'intégration de modèles d'intelligence artificielle avancés, ce système extrait, segmente et indexe les informations contenues dans vos documents pour générer des réponses pertinentes.
 
+![Alt text](Images/img1.png)
+
 ## 🚀 Fonctionnalités
 
 - 📂 **Importation de fichiers PDF** : Téléchargez un ou plusieurs documents pour analyse.
@@ -53,6 +55,8 @@ streamlit run app.py
 ```
 Puis, importez vos fichiers PDF via l'interface et commencez à poser vos questions.
 
+![Alt text](Images/img5.png)
+
 ## 🛠️ Technologies utilisées
 
 - **Python** : Langage principal du projet
@@ -69,16 +73,20 @@ Puis, importez vos fichiers PDF via l'interface et commencez à poser vos questi
 - 🏢 **Professionnels** : Analyser des contrats, rapports et documents techniques pour en extraire rapidement des informations clés de documents légaux.
 - 📰 **Journalistes et analystes** : Interroger des articles scientifiques, livres, ou rapports et en extraire des informations clés à partir de sources volumineuses.
 
+![Alt text](Images/img4.png)
+
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! Pour toute amélioration ou correction, merci de soumettre une Pull Request.
 
-
+![Alt text](Images/img3.png)
 
 ## 📧 Contact
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter par mail par [davidlutala0@gmail.com](davidlutala0@gmail.com) ou par LinkedIn via [David Lutala](https://www.linkedin.com/in/david-lutala-719952164/) ou à ouvrir une issue sur GitHub.
 
 ---
+
+![Alt text](Images/img2.png)
 
 ⭐ Si ce projet vous plaît, n'oubliez pas de laisser une étoile sur GitHub ! ⭐
