@@ -1,5 +1,7 @@
 # 📄💬 Q/R Documents - Système de Questions-Réponses basé sur des Documents
 
+## 📌 Déscription
+
 Q/R Documents est une application interactive qui vous permet d'interroger vos fichiers PDF et d'obtenir des réponses précises en fonction de leur contenu. Grâce à l'intégration de modèles d'intelligence artificielle avancés, ce système extrait, segmente et indexe les informations contenues dans vos documents pour générer des réponses pertinentes.
 
 ## 🚀 Fonctionnalités
@@ -10,7 +12,7 @@ Q/R Documents est une application interactive qui vous permet d'interroger vos f
 - ⚡ **Traitement rapide** : Extraction et indexation des textes optimisées pour une recherche efficace.
 - 🎯 **Modèle avancé** : Utilisation de `GoogleGenerativeAI` et `FAISS` pour un stockage et une récupération performante des informations.
 
-## 🛠️ Installation
+## ▶️ Installation
 
 ### 1️⃣ Prérequis
 - Python 3.8+
@@ -19,8 +21,8 @@ Q/R Documents est une application interactive qui vous permet d'interroger vos f
 
 ### 2️⃣ Cloner le projet
 ```sh
-git clone https://github.com/votre-repo/chat-pdf.git
-cd chat-pdf
+git clone https://github.com/DavidLUTALA/Q-R_Documents.git
+cd Q-R_Documents
 ```
 
 ### 3️⃣ Créer un environnement virtuel
@@ -43,7 +45,7 @@ GOOGLE_API_KEY=your_google_api_key
 ```
 
 
-## ▶️ Utilisation
+## 📥 Utilisation
 
 **Lancez l'application avec la commande suivante** :
 ```sh
@@ -51,11 +53,7 @@ streamlit run app.py
 ```
 Puis, importez vos fichiers PDF via l'interface et commencez à poser vos questions.
 
-## 📸 Aperçu
-
-![Interface](https://via.placeholder.com/800x400?text=Aper%C3%A7u+de+l%27interface)
-
-## 🏗️ Technologies utilisées
+## 🛠️ Technologies utilisées
 
 - **Python** : Langage principal du projet
 - **Streamlit** : Interface utilisateur interactive et simple
