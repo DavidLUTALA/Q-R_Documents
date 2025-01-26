@@ -77,7 +77,7 @@ Les contributions sont les bienvenues ! Pour toute amélioration ou correction, 
 
 ## 📧 Contact
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter par mail par [davidlutala0@gmail.com](davidlutala0@gmail.com) ou par LinkedIn via [David Lutala](LinkedIn : https://www.linkedin.com/in/david-lutala-719952164/) ou à ouvrir une issue sur GitHub.
+Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter par mail par [davidlutala0@gmail.com](davidlutala0@gmail.com) ou par LinkedIn via [David Lutala](https://www.linkedin.com/in/david-lutala-719952164/) ou à ouvrir une issue sur GitHub.
 
 ---
 
